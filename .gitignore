@@ -1,0 +1,14 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+data/pages/
+data/tiles/
+dataset/images/
+dataset/labels/
+dataset_original_box/COCO_after_merge
+dataset_original_box/tiles
+tmp/
+AutoCVAT
