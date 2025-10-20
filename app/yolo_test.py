@@ -4,7 +4,7 @@ import multiprocessing
 import os
 
 def main():
-    # Корень проекта
+
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
     print("CUDA available:", torch.cuda.is_available())
